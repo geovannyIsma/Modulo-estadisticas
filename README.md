@@ -22,6 +22,6 @@
 
 - **Personalización**: El módulo permite personalizar los parámetros de los informes y las estadísticas que se quieren analizar, ajustando los datos a las necesidades del usuario.
 
-- **Visualización gráfica de estadísticas**: Integra gráficos y diagramas para visualizar las estadísticas en formato visual, lo que facilita la interpretación y el análisis de datos.
+- **Visualización gráfica de estadísticas**: Integra gráficos y diagramas para visualizar las estadísticas en formato visual, lo que facilita la interpretación y el análisis de los datos.
 
 - **Generación de estadísticas automáticas**: El sistema calcula automáticamente las estadísticas más relevantes, como promedio de puntos, porcentajes de acierto, rendimiento de jugadores y equipos, entre otros.
