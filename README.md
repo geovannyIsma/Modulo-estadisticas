@@ -25,3 +25,7 @@
 - **Visualización gráfica de estadísticas**: Integra gráficos y diagramas para visualizar las estadísticas en formato visual, lo que facilita la interpretación y el análisis de los datos.
 
 - **Generación de estadísticas automáticas**: El sistema calcula automáticamente las estadísticas más relevantes, como promedio de puntos, porcentajes de acierto, rendimiento de jugadores y equipos, entre otros.
+
+## Prototipos
+[Figma](https://www.figma.com/design/R1QDQV4A9QnyScu4wEGcJV/Untitled?node-id=0-1&t=O1AJbsKf8XdfL00V-1)
+
